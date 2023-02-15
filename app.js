@@ -1,1 +1,1 @@
-console.log("Rodando o site do clan")
+console.log("Rodando o site do clan");
